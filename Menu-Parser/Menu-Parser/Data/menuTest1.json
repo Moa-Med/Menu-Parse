@@ -1,0 +1,19 @@
+{
+  "breakfast_menu": {
+    "food": [
+      {
+        "name": "Cake",
+        "price": "$5.95",
+        "description": "Two of our famous Belgian Waffles with plenty of real maple syrup",
+        "calories": "650"
+      },
+      {
+        "name": "Potato Gratein",
+        "price": "$15",
+        "description": " very good ",
+        "calories": "600"
+      }
+	
+    ]
+  }
+}

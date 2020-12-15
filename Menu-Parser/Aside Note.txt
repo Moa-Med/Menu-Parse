@@ -1,0 +1,10 @@
+
+Notes : Improvment of the application 
+
+- The application should be able to get more files and different type
+of files 
+- The user should get an interface to enter his file and select the mode
+- Beeing able to select only one 
+- Searching a specific Food .
+
+thank you . 
